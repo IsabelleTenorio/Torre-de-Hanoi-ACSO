@@ -1,5 +1,5 @@
 # Torre-de-Hanoi-ACSO
-Esse repositório contém os códigos em pyhton e em assembly x86 NASM para o algoritmo recursivo da torre de Hanoi com até 9 discos.
+Esse repositório contém os códigos em pyhton e em assembly x86 NASM para o algoritmo recursivo da torre de Hanoi com até 9 discos. Esses códigos foram desenvolvidos para um projeto da disciplina arquitetura de computadores e sistemas operacionais do curso de Sistemas de Informação do Centro de Informática da UFPE pelas alunas Eduarda Rodrigues e Isabelle Tenório.
 
 ## Como usar
 ### hanoiTower.py
